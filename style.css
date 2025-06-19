@@ -1,7 +1,7 @@
 
 body { font-family: sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
 header { background: #026670; color: white; padding: 20px; display: flex; justify-content: space-between; flex-wrap: wrap; }
-header h1 { margin: 0; }
+header h1 { margin: hsl(29, 85%, 28%); }
 nav a { color: white; margin-left: 20px; text-decoration: none; }
 .hero { background-image: url('img/kabah.jpg'); background-size: cover; background-position: center; color: white; text-align: center; padding: 80px 20px; background-blend-mode: darken; background-color: rgba(0,0,0,0.5); }
 .content-section { padding: 40px 20px; background: #fff; margin-bottom: 20px; }
@@ -11,6 +11,6 @@ nav a { color: white; margin-left: 20px; text-decoration: none; }
 .testi { background: #e8f5e9; padding: 15px; margin: 10px 0; border-left: 4px solid #4caf50; }
 form { display: flex; flex-direction: column; }
 form input, form textarea { padding: 10px; margin: 10px 0; border: 1px solid #ccc; }
-form button { background: #026670; color: white; border: none; padding: 10px; }
+form button { background: #b98107; color: rgb(10, 7, 2); border: #ffffff; padding: 10px; }
 .wa-button { display: inline-block; margin-top: 15px; background: #25D366; color: white; padding: 10px; text-decoration: none; border-radius: 5px; }
 footer { background: #ddd; text-align: center; padding: 10px; }
